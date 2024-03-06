@@ -1,16 +1,4 @@
-# isp921nd
+<h1> Практическая работа номер 2 <H1>
+<h2> Скриншот работы <h2>
+<img width="509" alt="Снимок экрана 2024-03-06 в 11 30 30" src="https://github.com/Dasheeer/lab_2_shkaf/assets/140635378/cb59c1ff-2ee2-4a03-8c98-0d31fa270eaa">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
